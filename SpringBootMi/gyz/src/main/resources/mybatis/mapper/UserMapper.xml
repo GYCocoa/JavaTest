@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.gyz.db.mapper.UserMapper">
+
+    <insert id="addUser" parameterType="User">
+        insert into user (nickname,password,token) values (#{nickname},#{password},#{token})
+    </insert>
+
+    <delete id="deleteUser">
+        delete from user where id = #{id}
+    </delete>
+
+    <update id="updateUser" parameterType="User">
+        update user set nickname = #{nickname},password = #{password} where id = #{id}
+    </update>
+
+    <select id="queryUserById" resultType="java.util.Map">
+        select id,nickname,sex,icon,token from user where id = #{id}
+    </select>
+
+    <select id="queryUserList" resultType="User">
+        select * from user
+    </select>
+
+    <select id="queryUserByNickname" resultType="java.util.Map">
+        select id,nickname,sex,icon,token from user where nickname = #{nickname}
+    </select>
+
+</mapper>

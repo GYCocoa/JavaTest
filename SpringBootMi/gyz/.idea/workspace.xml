@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ad87ef5c-5047-415e-93ad-f6c1bdf66fe4" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Up3TEhLc10RbN3VqGWGk8jjoiP" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources" />
+    <property name="project.structure.last.edited" value="Facets" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.21034482" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.gyz.db" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources" />
+      <recent name="$PROJECT_DIR$/src/main/java/com/gyz/utils" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources/mybatis" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Application">
+    <configuration name="Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.gyz.db.Application" />
+      <module name="gyz" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.gyz.db.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ApplicationTests.contextLoads" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="gyz" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.gyz.db.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.gyz.db" />
+      <option name="MAIN_CLASS_NAME" value="com.gyz.db.ApplicationTests" />
+      <option name="METHOD_NAME" value="contextLoads" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Application" />
+        <item itemvalue="JUnit.ApplicationTests.contextLoads" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ad87ef5c-5047-415e-93ad-f6c1bdf66fe4" name="Default Changelist" comment="" />
+      <created>1576039714356</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576039714356</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2139" y="236" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1576296562089">
+      <screen x="1440" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2139" y="236" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1576296562089" />
+    <state width="1878" height="212" key="GridCell.Tab.0.bottom" timestamp="1576838748175">
+      <screen x="1440" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1878" height="212" key="GridCell.Tab.0.bottom/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1576666172968" />
+    <state width="1878" height="366" key="GridCell.Tab.0.bottom/0.23.1440.826/1440.23.1920.1057@1440.23.1920.1057" timestamp="1576318446123" />
+    <state width="1878" height="212" key="GridCell.Tab.0.bottom/0.23.1440.827/1440.23.1920.1057@1440.23.1920.1057" timestamp="1576838748175" />
+    <state width="1878" height="212" key="GridCell.Tab.0.center" timestamp="1576838748174">
+      <screen x="1440" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1878" height="212" key="GridCell.Tab.0.center/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1576666172967" />
+    <state width="1878" height="366" key="GridCell.Tab.0.center/0.23.1440.826/1440.23.1920.1057@1440.23.1920.1057" timestamp="1576318446122" />
+    <state width="1878" height="212" key="GridCell.Tab.0.center/0.23.1440.827/1440.23.1920.1057@1440.23.1920.1057" timestamp="1576838748174" />
+    <state width="1878" height="212" key="GridCell.Tab.0.left" timestamp="1576838748174">
+      <screen x="1440" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1878" height="212" key="GridCell.Tab.0.left/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1576666172966" />
+    <state width="1878" height="366" key="GridCell.Tab.0.left/0.23.1440.826/1440.23.1920.1057@1440.23.1920.1057" timestamp="1576318446122" />
+    <state width="1878" height="212" key="GridCell.Tab.0.left/0.23.1440.827/1440.23.1920.1057@1440.23.1920.1057" timestamp="1576838748174" />
+    <state width="1878" height="212" key="GridCell.Tab.0.right" timestamp="1576838748174">
+      <screen x="1440" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1878" height="212" key="GridCell.Tab.0.right/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1576666172968" />
+    <state width="1878" height="366" key="GridCell.Tab.0.right/0.23.1440.826/1440.23.1920.1057@1440.23.1920.1057" timestamp="1576318446123" />
+    <state width="1878" height="212" key="GridCell.Tab.0.right/0.23.1440.827/1440.23.1920.1057@1440.23.1920.1057" timestamp="1576838748174" />
+    <state width="1878" height="366" key="GridCell.Tab.1.bottom" timestamp="1576318446124">
+      <screen x="1440" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1878" height="366" key="GridCell.Tab.1.bottom/0.23.1440.826/1440.23.1920.1057@1440.23.1920.1057" timestamp="1576318446124" />
+    <state width="1878" height="366" key="GridCell.Tab.1.center" timestamp="1576318446123">
+      <screen x="1440" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1878" height="366" key="GridCell.Tab.1.center/0.23.1440.826/1440.23.1920.1057@1440.23.1920.1057" timestamp="1576318446123" />
+    <state width="1878" height="366" key="GridCell.Tab.1.left" timestamp="1576318446123">
+      <screen x="1440" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1878" height="366" key="GridCell.Tab.1.left/0.23.1440.826/1440.23.1920.1057@1440.23.1920.1057" timestamp="1576318446123" />
+    <state width="1878" height="366" key="GridCell.Tab.1.right" timestamp="1576318446123">
+      <screen x="1440" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1878" height="366" key="GridCell.Tab.1.right/0.23.1440.826/1440.23.1920.1057@1440.23.1920.1057" timestamp="1576318446123" />
+    <state x="1909" y="179" key="SettingsEditor" timestamp="1576298135304">
+      <screen x="1440" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1909" y="179" key="SettingsEditor/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1576298135304" />
+    <state x="1851" y="312" key="new project wizard" timestamp="1576295713790">
+      <screen x="1440" y="23" width="1920" height="1057" />
+    </state>
+    <state x="1851" y="295" key="new project wizard/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1576295468683" />
+    <state x="1851" y="312" key="new project wizard/0.23.1440.826/1440.23.1920.1057@1440.23.1920.1057" timestamp="1576295713790" />
+    <state x="2065" y="241" width="670" height="676" key="search.everywhere.popup" timestamp="1576314713761">
+      <screen x="1440" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2065" y="241" width="670" height="676" key="search.everywhere.popup/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1576314713761" />
+  </component>
+</project>
